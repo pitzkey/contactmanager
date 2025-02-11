@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-01 07:17-0400\n"
+"POT-Creation-Date: 2025-02-11 09:22-0500\n"
 "PO-Revision-Date: 2021-12-02 13:13+0000\n"
 "Last-Translator: florian alberts <alberts@ar-systems.de>\n"
 "Language-Team: German <http://weblate.freepbx.org/projects/freepbx/"
@@ -25,23 +25,23 @@ msgstr ""
 msgid "A PHP extension stopped the file upload"
 msgstr "Eine PHP-Erweiterung hat den Datei Upload gestoppt"
 
-#: views/entry.php:359
+#: views/entry.php:361
 msgid "A list of E-Mail addresses belonging to this entry"
 msgstr "Eine Liste der E-Mail-Adressen, die zu diesem Eintrag gehören"
 
-#: views/entry.php:327
+#: views/entry.php:329
 msgid "A list of XMPP addresses belonging to this entry"
 msgstr "Eine Liste der XMPP-Adressen, die zu diesem Eintrag gehören"
 
-#: views/entry.php:295
+#: views/entry.php:297
 msgid "A list of numbers belonging to this entry"
 msgstr "Eine Liste von Nummern, die zu diesem Eintrag gehören"
 
-#: views/entry.php:391
+#: views/entry.php:393
 msgid "A list of websites belonging to this entry"
 msgstr "Eine Liste von Webseiten, die zu diesem Eintrag gehören"
 
-#: views/entry.php:57
+#: views/entry.php:59
 msgid "A user from the User Management module"
 msgstr "Ein Benutzer aus dem Benutzerverwaltungsmodul"
 
@@ -59,11 +59,11 @@ msgstr "Aktionen"
 msgid "Add Contact"
 msgstr "Kontakt hinzufügen"
 
-#: ucp/views/contact.php:216 ucp/views/contactEdit.php:153 views/entry.php:351
+#: ucp/views/contact.php:216 ucp/views/contactEdit.php:153 views/entry.php:353
 msgid "Add Email"
 msgstr "E-mail hinzufügen"
 
-#: views/entry.php:32
+#: views/entry.php:34
 msgid "Add Entry"
 msgstr "Eintrag hinzufügen"
 
@@ -88,15 +88,15 @@ msgid "Add Number"
 msgstr "Nummer hinzufügen"
 
 #: ucp/views/contact.php:243 ucp/views/contactEdit.php:168
-#: ucp/views/contactEdit.php:196 views/entry.php:383
+#: ucp/views/contactEdit.php:196 views/entry.php:385
 msgid "Add Website"
 msgstr "Webseite hinzufügen"
 
-#: ucp/views/contact.php:189 ucp/views/contactEdit.php:138 views/entry.php:319
+#: ucp/views/contact.php:189 ucp/views/contactEdit.php:138 views/entry.php:321
 msgid "Add XMPP"
 msgstr "XMPP hinzufügen"
 
-#: Contactmanager.class.php:3310 views/entry.php:211 views/entry.php:223
+#: Contactmanager.class.php:3310 views/entry.php:213 views/entry.php:225
 msgid "Address"
 msgstr "Adresse"
 
@@ -144,7 +144,7 @@ msgstr ""
 msgid "Automatically Determine"
 msgstr "Automatisch bestimmen"
 
-#: ucp/views/contact.php:36 ucp/views/contactEdit.php:36 views/entry.php:162
+#: ucp/views/contact.php:36 ucp/views/contactEdit.php:36 views/entry.php:164
 #: views/user_details_hook.php:49
 msgid "Browse"
 msgstr "Durchsuchen"
@@ -180,20 +180,20 @@ msgstr ""
 
 #: Contactmanager.class.php:51 Contactmanager.class.php:60
 #: Contactmanager.class.php:3309 ucp/views/contact.php:22
-#: ucp/views/contactEdit.php:22 ucp/views/widget.php:56 views/entry.php:191
+#: ucp/views/contactEdit.php:22 ucp/views/widget.php:56 views/entry.php:193
 #: views/group.php:92
 msgid "Company"
 msgstr "Firma"
 
-#: views/entry.php:201
+#: views/entry.php:203
 msgid "Company (overrides Company from User Manager)"
 msgstr "Firma (überschreibt die Firma aus der Benutzerverwaltung)"
 
-#: views/entry.php:148 views/user_details_hook.php:35
+#: views/entry.php:150 views/user_details_hook.php:35
 msgid "Contact Image"
 msgstr "Kontaktblid"
 
-#: views/entry.php:181
+#: views/entry.php:183
 msgid "Contact Image for this user"
 msgstr "Kontaktbild für diesen Benutzer"
 
@@ -260,7 +260,7 @@ msgstr "Kontakt löschen"
 msgid "Delete Group"
 msgstr "Gruppe löschen"
 
-#: ucp/views/contact.php:31 ucp/views/contactEdit.php:31 views/entry.php:157
+#: ucp/views/contact.php:31 ucp/views/contactEdit.php:31 views/entry.php:159
 #: views/user_details_hook.php:44
 msgid "Delete Image"
 msgstr "Bild löschen"
@@ -269,7 +269,7 @@ msgstr "Bild löschen"
 msgid "Deleting..."
 msgstr "Löschen..."
 
-#: views/entry.php:259 assets/js/contactmanager.js:202
+#: views/entry.php:261 assets/js/contactmanager.js:202
 msgid "Dialing Country"
 msgstr "Wähl-Region"
 
@@ -280,16 +280,16 @@ msgstr "Wähl-Region"
 #: Contactmanager.class.php:40 Contactmanager.class.php:50
 #: Contactmanager.class.php:59 Contactmanager.class.php:3303
 #: Contactmanager.class.php:3304 ucp/views/contact.php:6
-#: ucp/views/contactEdit.php:6 ucp/views/widget.php:52 views/entry.php:68
+#: ucp/views/contactEdit.php:6 ucp/views/widget.php:52 views/entry.php:70
 #: views/speeddial-grid.php:13
 msgid "Display Name"
 msgstr "Anzeigename"
 
-#: views/entry.php:78
+#: views/entry.php:80
 msgid "Display Name (overrides Display Name from User Manager)"
 msgstr "Anzeigename (Überschreibt den Name des Benutzer-Manager)"
 
-#: ucp/views/contact.php:28 ucp/views/contactEdit.php:28 views/entry.php:154
+#: ucp/views/contact.php:28 ucp/views/contactEdit.php:28 views/entry.php:156
 #: views/user_details_hook.php:41
 msgid "Drop a new image here"
 msgstr "Neues Bild hier rein ziehen"
@@ -307,7 +307,7 @@ msgstr "E-Mail Adresse. Nur externe Kontakte."
 msgid "Edit"
 msgstr "Bearbeiten"
 
-#: views/entry.php:29
+#: views/entry.php:31
 msgid "Edit Entry"
 msgstr "Eintrag bearbeiten"
 
@@ -319,13 +319,13 @@ msgstr "Gruppe bearbeiten"
 msgid "Edit List"
 msgstr ""
 
-#: ucp/views/contact.php:192 ucp/views/contactEdit.php:141 views/entry.php:337
+#: ucp/views/contact.php:192 ucp/views/contactEdit.php:141 views/entry.php:339
 msgid "Email"
 msgstr "E-Mail"
 
 #: ucp/views/contact.php:80 ucp/views/contact.php:135
 #: ucp/views/contactEdit.php:79 ucp/views/contactEdit.php:114
-#: views/entry.php:275 assets/js/contactmanager.js:217
+#: views/entry.php:277 assets/js/contactmanager.js:217
 msgid "Enable"
 msgstr "Aktivieren"
 
@@ -342,7 +342,7 @@ msgstr "Fehler beim Abruf des Formulars"
 msgid "Exclude"
 msgstr ""
 
-#: views/entry.php:248 assets/js/contactmanager.js:192
+#: views/entry.php:250 assets/js/contactmanager.js:192
 msgid "Ext."
 msgstr "Extern"
 
@@ -394,11 +394,11 @@ msgstr "Datei hochladen fehlgeschlagen"
 
 #: Contactmanager.class.php:41 Contactmanager.class.php:3306
 #: ucp/views/contact.php:10 ucp/views/contactEdit.php:10
-#: ucp/views/widget.php:53 views/entry.php:88 views/speeddial-grid.php:14
+#: ucp/views/widget.php:53 views/entry.php:90 views/speeddial-grid.php:14
 msgid "First Name"
 msgstr "Vorname"
 
-#: views/entry.php:98
+#: views/entry.php:100
 msgid "First Name (overrides First Name from User Manager)"
 msgstr "Vorname (überschreibt den Vornamen aus der Benutzerverwaltung)"
 
@@ -593,11 +593,11 @@ msgstr "Ungültig"
 
 #: Contactmanager.class.php:42 Contactmanager.class.php:3307
 #: ucp/views/contact.php:14 ucp/views/contactEdit.php:14
-#: ucp/views/widget.php:54 views/entry.php:108 views/speeddial-grid.php:15
+#: ucp/views/widget.php:54 views/entry.php:110 views/speeddial-grid.php:15
 msgid "Last Name"
 msgstr "Nachname"
 
-#: views/entry.php:118
+#: views/entry.php:120
 msgid "Last Name (overrides Last Name from User Manager)"
 msgstr "Nachname (überschreibt den Nachnamen aus der Benutzerverwaltung)"
 
@@ -717,7 +717,7 @@ msgid "Number cannot be blank."
 msgstr "Nummer darf nicht leer sein."
 
 #: Contactmanager.class.php:52 Contactmanager.class.php:61
-#: ucp/views/contact.php:50 ucp/views/contactEdit.php:49 views/entry.php:236
+#: ucp/views/contact.php:50 ucp/views/contactEdit.php:49 views/entry.php:238
 #: views/group.php:93
 msgid "Numbers"
 msgstr "Nummern"
@@ -785,7 +785,7 @@ msgstr "In den Gruppen der Kontaktverwaltung anzeigen"
 #: Contactmanager.class.php:3328 Contactmanager.class.php:3342
 #: Contactmanager.class.php:3356 ucp/views/contact.php:75
 #: ucp/views/contact.php:130 ucp/views/contactEdit.php:74
-#: ucp/views/contactEdit.php:109 views/entry.php:270
+#: ucp/views/contactEdit.php:109 views/entry.php:272
 #: assets/js/contactmanager.js:212
 msgid "Speed Dial"
 msgstr "Kurzwahl"
@@ -883,15 +883,15 @@ msgid "This speed dial id conflicts with another speed dial on this page"
 msgstr "Die Kurzwahl-ID kollidiert mit einer anderen Kurzwahl auf diese Seite"
 
 #: Contactmanager.class.php:3308 ucp/views/contact.php:18
-#: ucp/views/contactEdit.php:18 ucp/views/widget.php:55 views/entry.php:128
+#: ucp/views/contactEdit.php:18 ucp/views/widget.php:55 views/entry.php:130
 msgid "Title"
 msgstr "Titel"
 
-#: views/entry.php:138
+#: views/entry.php:140
 msgid "Title (overrides Title from User Manager)"
 msgstr "Titel (Überschreibt den Titel vom Benutzer-Manager)"
 
-#: views/entry.php:249 views/group.php:40 assets/js/contactmanager.js:193
+#: views/entry.php:251 views/group.php:40 assets/js/contactmanager.js:193
 msgid "Type"
 msgstr "Art"
 
@@ -949,7 +949,7 @@ msgstr ""
 "Telefonnummern zu bestimmen. Wählen Sie die Region für die Nummern, die sie "
 "oben eingegeben haben."
 
-#: Contactmanager.class.php:43 views/entry.php:41 views/group.php:87
+#: Contactmanager.class.php:43 views/entry.php:43 views/group.php:87
 #: views/group.php:97
 msgid "User"
 msgstr "Benutzer"
@@ -974,7 +974,7 @@ msgid "Viewable Contact Manager Groups"
 msgstr "Sichtbare Gruppen der Kontaktverwaltung"
 
 #: ucp/views/contact.php:219 ucp/views/contactEdit.php:156
-#: ucp/views/contactEdit.php:172 views/entry.php:369
+#: ucp/views/contactEdit.php:172 views/entry.php:371
 msgid "Website"
 msgstr "Webseite"
 
@@ -1006,7 +1006,7 @@ msgstr ""
 msgid "Work"
 msgstr "Arbeit"
 
-#: views/entry.php:305
+#: views/entry.php:307
 msgid "XMPP"
 msgstr "XMPP"
 

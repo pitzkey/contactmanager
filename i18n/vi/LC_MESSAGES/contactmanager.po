@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-01 07:17-0400\n"
+"POT-Creation-Date: 2025-02-11 09:22-0500\n"
 "PO-Revision-Date: 2017-08-08 16:34+0200\n"
 "Last-Translator: PETER <ftek@ymail.com>\n"
 "Language-Team: Vietnamese <http://weblate.freepbx.org/projects/freepbx/"
@@ -25,23 +25,23 @@ msgstr ""
 msgid "A PHP extension stopped the file upload"
 msgstr "Một máy nhánh PHP vừa dừng việc tải tệp lên"
 
-#: views/entry.php:359
+#: views/entry.php:361
 msgid "A list of E-Mail addresses belonging to this entry"
 msgstr "Một danh sách địa chỉ các email thuộc mục nhập này"
 
-#: views/entry.php:327
+#: views/entry.php:329
 msgid "A list of XMPP addresses belonging to this entry"
 msgstr "Một danh sách các địa chỉ XMPP thuộc mục nhập này"
 
-#: views/entry.php:295
+#: views/entry.php:297
 msgid "A list of numbers belonging to this entry"
 msgstr "Một danh sách các số thuộc mục nhập này"
 
-#: views/entry.php:391
+#: views/entry.php:393
 msgid "A list of websites belonging to this entry"
 msgstr "Danh sách các trang web thuộc mục nhập này"
 
-#: views/entry.php:57
+#: views/entry.php:59
 msgid "A user from the User Management module"
 msgstr "Một người dùng từ mô đun quản lý người dùng"
 
@@ -59,11 +59,11 @@ msgstr "Các thao tác"
 msgid "Add Contact"
 msgstr "Thêm liên lạc"
 
-#: ucp/views/contact.php:216 ucp/views/contactEdit.php:153 views/entry.php:351
+#: ucp/views/contact.php:216 ucp/views/contactEdit.php:153 views/entry.php:353
 msgid "Add Email"
 msgstr "Thêm email"
 
-#: views/entry.php:32
+#: views/entry.php:34
 msgid "Add Entry"
 msgstr "Thêm mục nhập"
 
@@ -88,15 +88,15 @@ msgid "Add Number"
 msgstr "Thêm số"
 
 #: ucp/views/contact.php:243 ucp/views/contactEdit.php:168
-#: ucp/views/contactEdit.php:196 views/entry.php:383
+#: ucp/views/contactEdit.php:196 views/entry.php:385
 msgid "Add Website"
 msgstr "Thêm trang web"
 
-#: ucp/views/contact.php:189 ucp/views/contactEdit.php:138 views/entry.php:319
+#: ucp/views/contact.php:189 ucp/views/contactEdit.php:138 views/entry.php:321
 msgid "Add XMPP"
 msgstr "Thêm XMPP"
 
-#: Contactmanager.class.php:3310 views/entry.php:211 views/entry.php:223
+#: Contactmanager.class.php:3310 views/entry.php:213 views/entry.php:225
 msgid "Address"
 msgstr "Địa chỉ"
 
@@ -142,7 +142,7 @@ msgstr ""
 msgid "Automatically Determine"
 msgstr ""
 
-#: ucp/views/contact.php:36 ucp/views/contactEdit.php:36 views/entry.php:162
+#: ucp/views/contact.php:36 ucp/views/contactEdit.php:36 views/entry.php:164
 #: views/user_details_hook.php:49
 msgid "Browse"
 msgstr "Trình duyệt"
@@ -178,20 +178,20 @@ msgstr ""
 
 #: Contactmanager.class.php:51 Contactmanager.class.php:60
 #: Contactmanager.class.php:3309 ucp/views/contact.php:22
-#: ucp/views/contactEdit.php:22 ucp/views/widget.php:56 views/entry.php:191
+#: ucp/views/contactEdit.php:22 ucp/views/widget.php:56 views/entry.php:193
 #: views/group.php:92
 msgid "Company"
 msgstr "Công ty"
 
-#: views/entry.php:201
+#: views/entry.php:203
 msgid "Company (overrides Company from User Manager)"
 msgstr "Công ty (viết đè công ty từ trình quản lý người dùng)"
 
-#: views/entry.php:148 views/user_details_hook.php:35
+#: views/entry.php:150 views/user_details_hook.php:35
 msgid "Contact Image"
 msgstr "Hình ảnh liên lạc"
 
-#: views/entry.php:181
+#: views/entry.php:183
 msgid "Contact Image for this user"
 msgstr "Hình ảnh liên lạc cho người dùng này"
 
@@ -257,7 +257,7 @@ msgstr "Xóa liên lạc"
 msgid "Delete Group"
 msgstr "Xóa nhóm"
 
-#: ucp/views/contact.php:31 ucp/views/contactEdit.php:31 views/entry.php:157
+#: ucp/views/contact.php:31 ucp/views/contactEdit.php:31 views/entry.php:159
 #: views/user_details_hook.php:44
 msgid "Delete Image"
 msgstr "Xóa hình ảnh"
@@ -266,7 +266,7 @@ msgstr "Xóa hình ảnh"
 msgid "Deleting..."
 msgstr "Đang xóa..."
 
-#: views/entry.php:259 assets/js/contactmanager.js:202
+#: views/entry.php:261 assets/js/contactmanager.js:202
 msgid "Dialing Country"
 msgstr ""
 
@@ -277,16 +277,16 @@ msgstr ""
 #: Contactmanager.class.php:40 Contactmanager.class.php:50
 #: Contactmanager.class.php:59 Contactmanager.class.php:3303
 #: Contactmanager.class.php:3304 ucp/views/contact.php:6
-#: ucp/views/contactEdit.php:6 ucp/views/widget.php:52 views/entry.php:68
+#: ucp/views/contactEdit.php:6 ucp/views/widget.php:52 views/entry.php:70
 #: views/speeddial-grid.php:13
 msgid "Display Name"
 msgstr "Hiển thị Tên"
 
-#: views/entry.php:78
+#: views/entry.php:80
 msgid "Display Name (overrides Display Name from User Manager)"
 msgstr "Tên hiển thị ( ghi đè tên hiển thị từ trình quản lý người dùng)"
 
-#: ucp/views/contact.php:28 ucp/views/contactEdit.php:28 views/entry.php:154
+#: ucp/views/contact.php:28 ucp/views/contactEdit.php:28 views/entry.php:156
 #: views/user_details_hook.php:41
 msgid "Drop a new image here"
 msgstr "Thả một hình ảnh mới ở đây"
@@ -304,7 +304,7 @@ msgstr "Địa chỉ E-mail. Chỉ các liên lạc bên ngoài."
 msgid "Edit"
 msgstr ""
 
-#: views/entry.php:29
+#: views/entry.php:31
 msgid "Edit Entry"
 msgstr "Chỉnh sửa mục nhập"
 
@@ -316,13 +316,13 @@ msgstr "Chỉnh sửa nhóm"
 msgid "Edit List"
 msgstr ""
 
-#: ucp/views/contact.php:192 ucp/views/contactEdit.php:141 views/entry.php:337
+#: ucp/views/contact.php:192 ucp/views/contactEdit.php:141 views/entry.php:339
 msgid "Email"
 msgstr "Thư điện tử"
 
 #: ucp/views/contact.php:80 ucp/views/contact.php:135
 #: ucp/views/contactEdit.php:79 ucp/views/contactEdit.php:114
-#: views/entry.php:275 assets/js/contactmanager.js:217
+#: views/entry.php:277 assets/js/contactmanager.js:217
 msgid "Enable"
 msgstr "Kích hoạt"
 
@@ -339,7 +339,7 @@ msgstr ""
 msgid "Exclude"
 msgstr ""
 
-#: views/entry.php:248 assets/js/contactmanager.js:192
+#: views/entry.php:250 assets/js/contactmanager.js:192
 msgid "Ext."
 msgstr "Máy nhánh."
 
@@ -391,11 +391,11 @@ msgstr "Tải tệp lên không thành công"
 
 #: Contactmanager.class.php:41 Contactmanager.class.php:3306
 #: ucp/views/contact.php:10 ucp/views/contactEdit.php:10
-#: ucp/views/widget.php:53 views/entry.php:88 views/speeddial-grid.php:14
+#: ucp/views/widget.php:53 views/entry.php:90 views/speeddial-grid.php:14
 msgid "First Name"
 msgstr "Tên của bạn"
 
-#: views/entry.php:98
+#: views/entry.php:100
 msgid "First Name (overrides First Name from User Manager)"
 msgstr "Tên ( ghi đè Tên từ trình quản lý người dùng)"
 
@@ -590,11 +590,11 @@ msgstr "Không hợp lệ"
 
 #: Contactmanager.class.php:42 Contactmanager.class.php:3307
 #: ucp/views/contact.php:14 ucp/views/contactEdit.php:14
-#: ucp/views/widget.php:54 views/entry.php:108 views/speeddial-grid.php:15
+#: ucp/views/widget.php:54 views/entry.php:110 views/speeddial-grid.php:15
 msgid "Last Name"
 msgstr "Họ"
 
-#: views/entry.php:118
+#: views/entry.php:120
 msgid "Last Name (overrides Last Name from User Manager)"
 msgstr "Họ ( ghi đè Họ từ trình quản lý người dùng)"
 
@@ -712,7 +712,7 @@ msgid "Number cannot be blank."
 msgstr "Số không được để trống."
 
 #: Contactmanager.class.php:52 Contactmanager.class.php:61
-#: ucp/views/contact.php:50 ucp/views/contactEdit.php:49 views/entry.php:236
+#: ucp/views/contact.php:50 ucp/views/contactEdit.php:49 views/entry.php:238
 #: views/group.php:93
 msgid "Numbers"
 msgstr "Các số"
@@ -780,7 +780,7 @@ msgstr "Hiển thị các nhóm trình quản lý liên lạc"
 #: Contactmanager.class.php:3328 Contactmanager.class.php:3342
 #: Contactmanager.class.php:3356 ucp/views/contact.php:75
 #: ucp/views/contact.php:130 ucp/views/contactEdit.php:74
-#: ucp/views/contactEdit.php:109 views/entry.php:270
+#: ucp/views/contactEdit.php:109 views/entry.php:272
 #: assets/js/contactmanager.js:212
 msgid "Speed Dial"
 msgstr "Quay số nhanh"
@@ -873,15 +873,15 @@ msgid "This speed dial id conflicts with another speed dial on this page"
 msgstr ""
 
 #: Contactmanager.class.php:3308 ucp/views/contact.php:18
-#: ucp/views/contactEdit.php:18 ucp/views/widget.php:55 views/entry.php:128
+#: ucp/views/contactEdit.php:18 ucp/views/widget.php:55 views/entry.php:130
 msgid "Title"
 msgstr "Tiêu đề"
 
-#: views/entry.php:138
+#: views/entry.php:140
 msgid "Title (overrides Title from User Manager)"
 msgstr "Tiêu đề ( ghi đè Tiêu đề từ trình quản lý người dùng)"
 
-#: views/entry.php:249 views/group.php:40 assets/js/contactmanager.js:193
+#: views/entry.php:251 views/group.php:40 assets/js/contactmanager.js:193
 msgid "Type"
 msgstr "Kiểu"
 
@@ -938,7 +938,7 @@ msgid ""
 "the region for the numbers you have entered above."
 msgstr ""
 
-#: Contactmanager.class.php:43 views/entry.php:41 views/group.php:87
+#: Contactmanager.class.php:43 views/entry.php:43 views/group.php:87
 #: views/group.php:97
 msgid "User"
 msgstr "Người dùng"
@@ -963,7 +963,7 @@ msgid "Viewable Contact Manager Groups"
 msgstr "Các nhóm trình quản lý liên lạc có thể xem được"
 
 #: ucp/views/contact.php:219 ucp/views/contactEdit.php:156
-#: ucp/views/contactEdit.php:172 views/entry.php:369
+#: ucp/views/contactEdit.php:172 views/entry.php:371
 msgid "Website"
 msgstr "Trang Web"
 
@@ -995,7 +995,7 @@ msgstr ""
 msgid "Work"
 msgstr "Làm việc"
 
-#: views/entry.php:305
+#: views/entry.php:307
 msgid "XMPP"
 msgstr "XMPP"
 

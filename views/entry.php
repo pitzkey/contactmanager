@@ -13,6 +13,8 @@ foreach ($users as $u) {
 		$desc = 'Ext. ' . $u['default_extension'];
 	} else if ($u['description']) {
 		$desc = $u['description'];
+	} else {
+		$desc = '';
 	}
 
 	$userlist[$u['id']] = ($desc ? $desc . ' ' : '') . '(' . $u['username'] . ')';
